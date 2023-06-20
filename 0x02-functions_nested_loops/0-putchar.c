@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include "main.h"
 /**
- *main _ Entry point
+ *main - Entry point
  *Descreption :This program demonstrates the usage of the putchar function
- *to print an underscore.
- * Return: On success 0
+ *Print a single character to the standard output
+ *Return: On success,0
  */
 int main(void)
 {
